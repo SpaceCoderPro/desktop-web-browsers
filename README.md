@@ -5,7 +5,7 @@
 An extensive, curated, and almost full list of all Desktop Web Browsers. Metrics currently only on Windows. Memory usage calculated with default config. Only Browsers with ENG Site are tested...
 
 > [!WARNING]
-> Please note down that not all browsers in the list are recommended for daily use. 🦠 Means Virus. ⚠️ Means PUP (Potentially Unwanted Software due to its behaviour.)
+> Please note down that not all browsers in the list are recommended for daily use. 🦠 Means Virus. ⚠️ Means PUP (Potentially Unwanted Software due to its behavior. WORK IN PROGRESS
 
 <div align="center">
 <img src="https://nerdyslacker.github.io/desktop-web-browsers/media/dino.png" width="200"/>
