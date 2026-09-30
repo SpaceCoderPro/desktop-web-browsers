@@ -5,7 +5,7 @@
 An extensive, curated, and almost full list of all Desktop Web Browsers. Metrics currently only on Windows. Memory usage calculated with default config. Only Browsers with ENG Site are tested...
 
 > [!WARNING]
-> Please note down that not all browsers in the list are recommended for daily use. ⚠️ Means Virus
+> Please note down that not all browsers in the list are recommended for daily use. 🦠 Means Virus. ⚠️ Means PUP (Potentially Unwanted Software due to its behaviour.)
 
 <div align="center">
 <img src="https://nerdyslacker.github.io/desktop-web-browsers/media/dino.png" width="200"/>
@@ -19,13 +19,13 @@ An extensive, curated, and almost full list of all Desktop Web Browsers. Metrics
 
 Browsers with names starting with numbers, often representing company identifiers or version numbers.
 
-| Browser Name | Engine | Operating System | Description | Site Active? | Actively Updated? | Startup Time | Memory Usage | Idle CPU | Modern/Legacy UI | ENG Site? |
+| Browser Name | Engine | Operating System | Description | Available | Actively Updated? | Startup Time | Memory Usage | Idle CPU | Modern/Legacy UI | ENG Site? |
 |--------------|--------|-------------------|-------------|--------------|-------------------|---------------|-------------|-----------|-----------------|-----------|
-| <a id="0-9"></a> [115 Browser](https://pc.115.com/browser.html) | Blink, WebKit | Windows, macOS | Developed by 115.com | ✔️ | - | - | - | - | - | ❌ |
+| <a id="0-9"></a> [115 Browser⚠️](https://pc.115.com/browser.html) | Blink, WebKit | Windows, macOS | Developed by 115.com | ✔️ | - | - | - | - | - | ❌ |
 | [2345 Explorer](https://ie.2345.cc/) | Trident, WebKit, Blink | Windows | Developed by 2345.com | ❌ |
-| [360 AI Browser](https://browser.360.cn/ai/) | Blink, Trident | Windows, Mac OS | A web browser with integrated AI features | ✔️ | - | - | - | - | - | ❌ |
-| [360 Secure Browser⚠️](https://browser.360.cn/se/en.html) | Blink, Trident | Windows, Mac OS | Freeware browser by Qihu 360 Software | ✔️ | - | - | - | - | - | ✔️ |
-| [360 Extreme Browser⚠️](https://browser.360.cn/ee/en.html) | Blink, Trident | Windows, macOS | Another version from Qihu | ✔️ | - | - | - | - | - | ✔️ |
+| [360 AI Browser⚠️](https://browser.360.cn/ai/) | Blink, Trident | Windows, Mac OS | A web browser with integrated AI features | ✔️ | - | - | - | - | - | ❌ |
+| [360 Secure Browser🦠](https://browser.360.cn/se/en.html) | Blink, Trident | Windows, Mac OS | Freeware browser by Qihu 360 Software | ✔️ | - | - | - | - | - | ✔️ |
+| [360 Extreme Browser🦠](https://browser.360.cn/ee/en.html) | Blink, Trident | Windows, macOS | Another version from Qihu | ✔️ | - | - | - | - | - | ✔️ |
 
 ---
 
@@ -33,10 +33,10 @@ Browsers with names starting with numbers, often representing company identifier
 
 A curated collection of the browsers named starting from A.
 
-| Browser Name | Engine | Operating System | Description |
-|--------------|--------|-------------------|-------------|
-| <a id="A"></a> [Acent Browser](https://acent.tech/) (Osiris) | Blink | Windows, macOS, Linux | Blockchain-only browser |
-| [Adaware Safe Browser](https://www.adaware.com/free-safe-browser) | Chromium | Windows, macOS | Works with Adaware Protect |
+| Browser Name | Engine | Operating System | Description | Available? | Actively Updated? | Startup Time | Memory Usage | Idle CPU | Modern/Legacy UI | ENG Site? |
+|--------------|--------|-------------------|-------------|--------------|-------------------|---------------|-------------|-----------|-----------------|-----------|
+| <a id="A"></a> [Acent Browser](https://acent.tech/) (Osiris) | Blink | Windows, macOS, Linux | Blockchain-only browser | ❌ |
+| [Adaware Safe Browser](https://www.adaware.com/free-safe-browser) | Chromium | Windows, macOS | Works with Adaware Protect | ❌ |
 | [Adblock Browser](https://adblockbrowser.org/) | Gecko | Windows, macOS | Ads Under Control: Discover a Clean Internet |
 | [Agregore Browser](https://github.com/AgregoreWeb/agregore-browser) | Electron | Windows, Linux, macOS | Minimal browser for distributed web |
 | [Airy](https://tryairy.com) | Chromium | Windows, macOS | Efficiency side browser tool |
