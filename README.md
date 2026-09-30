@@ -39,7 +39,7 @@ A curated collection of the browsers named starting from A.
 | [Adaware Safe Browser](https://www.adaware.com/free-safe-browser) | Chromium | Windows, macOS | Works with Adaware Protect | ❌ |
 | [Adblock Browser](https://adblockbrowser.org/) | Gecko | Windows, macOS | Ads Under Control: Discover a Clean Internet |
 | [Agregore Browser](https://github.com/AgregoreWeb/agregore-browser) | Electron | Windows, Linux, macOS | Minimal browser for distributed web |
-| [Airy](https://tryairy.com) | Chromium | Windows, macOS | Efficiency side browser tool |
+| [Airy](https://tryairy.com) | Chromium | Windows, macOS | Efficiency side browser tool | ❌ |
 | [Alloy Browser](https://alloy.simoncaminada.ch/) | WebKit | macOS | Web browser for power users |
 | [Aloha Browser](https://alohabrowser.com/) | WebKit, Blink | Windows, macOS, Linux | Fast, free, full-featured browser |
 | [AMP Browser](https://ampbrowser.com/) | Chromium | Windows, Ubuntu | Open source, accelerates web browsing |
@@ -49,14 +49,14 @@ A curated collection of the browsers named starting from A.
 | [Argus](https://argusbrowser.io) | - | macOS | The AI-powered browser built for speed and privacy. |
 | [ArtisBrowser](https://artistscope.com/artisbrowser/artisbrowser-download.asp) | Gecko | Windows | Standalone application |
 | [Asobi](https://github.com/bdashore3/Asobi) | WebKit | macOS | Minimalist navigation bar browser |
-| [Atom Browser](https://browser.ru/) | Blink | Windows, macOS, Linux | New browser from Mail.ru |
+| [Atom Browser](https://browser.ru/) | Blink | Windows, macOS, Linux | New browser from Mail.ru | ❌ |
 | [Avant Browser](https://www.avantbrowser.com/) | Trident, Gecko, Webkit | Windows | Avant Browser is an ultra-fast, three engine web browser. |
 | [Avast Secure Browser](https://www.avast.com/secure-browser#pc) | Chromium | Windows, macOS | Free web browser for secure protection |
 | [AVG Secure Browser](https://www.avg.com/en-us/secure-browser#pc) | Chromium | Windows, macOS | Secure browser for online privacy |
 | [Avira Secure Browser](https://www.avira.com/en/avira-secure-browser) | Blink | Windows, Mac | Take back control when you're online. |
 | [AWBfL](https://sources.vsta.org:7100/awbfl/index) | Webkit2 | Linux | Webkit2 browser coded in vala |
-| [Axonium](https://axonium.fr) | WebKit | macOS | Zero telemetry, built-in ad blocker, and an interface designed for productivity |
-| [AXplorer](https://axia.global/axplorer) | Chromium | Windows, macOS, Linux | Use-to-earn, private, fast browser |
+| [Axonium](https://axonium.fr) | WebKit | macOS | Zero telemetry, built-in ad blocker, and an interface designed for productivity | ❌ |
+| [AXplorer](https://axia.global/axplorer) | Chromium | Windows, macOS, Linux | Use-to-earn, private, fast browser | ❌ |
 
 ---
 
