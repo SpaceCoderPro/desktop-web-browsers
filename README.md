@@ -2,10 +2,10 @@
 
 **Total Count: `296`** 
 
-An extensive, curated, and almost full list of all Desktop Web Browsers. 
+An extensive, curated, and almost full list of all Desktop Web Browsers. Metrics currently only on Windows. Memory usage calculated with default config. Only Browsers with ENG Site are tested...
 
 > [!WARNING]
-> Please note down that not all browsers in the list are recommended for daily use.
+> Please note down that not all browsers in the list are recommended for daily use. ⚠️ Means Virus
 
 <div align="center">
 <img src="https://nerdyslacker.github.io/desktop-web-browsers/media/dino.png" width="200"/>
@@ -19,13 +19,13 @@ An extensive, curated, and almost full list of all Desktop Web Browsers.
 
 Browsers with names starting with numbers, often representing company identifiers or version numbers.
 
-| Browser Name | Engine | Operating System | Description |
-|--------------|--------|-------------------|-------------|
-| <a id="0-9"></a> [115 Browser](https://pc.115.com/browser.html) | Blink, WebKit | Windows, macOS | Developed by 115.com |
-| [2345 Explorer](https://ie.2345.cc/) | Trident, WebKit, Blink | Windows | Developed by 2345.com |
-| [360 AI Browser](https://browser.360.cn/ai/) | Blink, Trident | Windows, Mac OS | A web browser with integrated AI features |
-| [360 Secure Browser](https://browser.360.cn/se/en.html) | Blink, Trident | Windows, Mac OS | Freeware browser by Qihu 360 Software |
-| [360 Extreme Browser](https://browser.360.cn/ee/en.html) | Blink, Trident | Windows, macOS | Another version from Qihu |
+| Browser Name | Engine | Operating System | Description | Site Active? | Actively Updated? | Startup Time | Memory Usage | Idle CPU | Modern/Legacy UI | Daily Use? | ENG Site? |
+|--------------|--------|-------------------|-------------|--------------|-------------------|---------------|-------------|-----------|-----------------|------------|-----------|
+| <a id="0-9"></a> [115 Browser](https://pc.115.com/browser.html) | Blink, WebKit | Windows, macOS | Developed by 115.com | ✔️ | - | - | - | - | - | - | ❌ |
+| [2345 Explorer](https://ie.2345.cc/) | Trident, WebKit, Blink | Windows | Developed by 2345.com | ❌ |
+| [360 AI Browser](https://browser.360.cn/ai/) | Blink, Trident | Windows, Mac OS | A web browser with integrated AI features | ✔️ | - | - | - | - | - | - | ❌ |
+| [360 Secure Browser⚠️](https://browser.360.cn/se/en.html) | Blink, Trident | Windows, Mac OS | Freeware browser by Qihu 360 Software | ✔️ | - | - | - | - | - | - | ✔️ |
+| [360 Extreme Browser⚠️](https://browser.360.cn/ee/en.html) | Blink, Trident | Windows, macOS | Another version from Qihu | ✔️ | - | - | - | - | - | - | ✔️ |
 
 ---
 
